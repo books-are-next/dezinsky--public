@@ -1,0 +1,469 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Přízraky",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Milan Děžinský",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-11-16T00:00:00.000Z",
+    "published": "2021-11-15T12:21:54.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prizraky_054.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_prizraky.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Nezdá-li se vám v nocích...",
+      "href": "OEBPS/Text/prizraky_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "NOČNÍ HLÍDKA",
+      "children": [
+        {
+          "title": "Noční hlídka",
+          "href": "OEBPS/Text/prizraky_007.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "Houba",
+          "href": "OEBPS/Text/prizraky_008.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Nokturno",
+          "href": "OEBPS/Text/prizraky_009.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Probdělá noc",
+          "href": "OEBPS/Text/prizraky_010.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Generátor",
+          "href": "OEBPS/Text/prizraky_011.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Svědectví",
+          "href": "OEBPS/Text/prizraky_012.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Po noci",
+          "href": "OEBPS/Text/prizraky_013.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "To není selhání",
+          "href": "OEBPS/Text/prizraky_014.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Má marnosti! Má pýcho!...",
+          "href": "OEBPS/Text/prizraky_015.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Příchod domů",
+          "href": "OEBPS/Text/prizraky_016.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Ráno je optimistické",
+          "href": "OEBPS/Text/prizraky_017.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Balvan",
+          "href": "OEBPS/Text/prizraky_018.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "Porfyriova mapa",
+          "href": "OEBPS/Text/prizraky_019.xhtml#_idParaDest-15"
+        }
+      ],
+      "href": "OEBPS/Text/prizraky_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "BOŽSKÉ STVOŘENÍ",
+      "children": [
+        {
+          "title": "Božské stvoření",
+          "href": "OEBPS/Text/prizraky_021.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Roztoč",
+          "href": "OEBPS/Text/prizraky_022.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Říjen",
+          "href": "OEBPS/Text/prizraky_023.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Milostná I",
+          "href": "OEBPS/Text/prizraky_024.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Milostná II",
+          "href": "OEBPS/Text/prizraky_025.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "Bouře",
+          "href": "OEBPS/Text/prizraky_026.xhtml#_idParaDest-22"
+        },
+        {
+          "title": "Siesta",
+          "href": "OEBPS/Text/prizraky_027.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "O mém synovi",
+          "href": "OEBPS/Text/prizraky_028.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Se synem v koupelně",
+          "href": "OEBPS/Text/prizraky_029.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Smutná neděle",
+          "href": "OEBPS/Text/prizraky_030.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Oceány",
+          "href": "OEBPS/Text/prizraky_031.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Hrabu se v hlíně",
+          "href": "OEBPS/Text/prizraky_032.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Kapsa větru",
+          "href": "OEBPS/Text/prizraky_033.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Strom v květu",
+          "href": "OEBPS/Text/prizraky_034.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Pád kaštanu",
+          "href": "OEBPS/Text/prizraky_035.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Metafyzika",
+          "href": "OEBPS/Text/prizraky_036.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Nadýchaný květ",
+          "href": "OEBPS/Text/prizraky_037.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Ovoce",
+          "href": "OEBPS/Text/prizraky_038.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Věštění z cibule",
+          "href": "OEBPS/Text/prizraky_039.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "Strž",
+          "href": "OEBPS/Text/prizraky_040.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "Hydroterapie",
+          "href": "OEBPS/Text/prizraky_041.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Spřízněnost",
+          "href": "OEBPS/Text/prizraky_042.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Nehet",
+          "href": "OEBPS/Text/prizraky_043.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Soumrak",
+          "href": "OEBPS/Text/prizraky_044.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Padají hrušky",
+          "href": "OEBPS/Text/prizraky_045.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Nietzsche",
+          "href": "OEBPS/Text/prizraky_046.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Shakespeare",
+          "href": "OEBPS/Text/prizraky_047.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Čára života",
+          "href": "OEBPS/Text/prizraky_048.xhtml#_idParaDest-44"
+        }
+      ],
+      "href": "OEBPS/Text/prizraky_020.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "PŘÍZRAKY",
+      "children": [
+        {
+          "title": "Přízraky",
+          "href": "OEBPS/Text/prizraky_050.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "ignorabimus...",
+          "href": "OEBPS/Text/prizraky_051.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Muž se směje do dutiny stromu",
+          "href": "OEBPS/Text/prizraky_052.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Z okna",
+          "href": "OEBPS/Text/prizraky_053.xhtml#_idParaDest-49"
+        }
+      ],
+      "href": "OEBPS/Text/prizraky_049.xhtml#_idParaDest-45"
+    }
+  ]
+}
