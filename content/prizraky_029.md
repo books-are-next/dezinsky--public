@@ -1,23 +1,21 @@
 ---
-title: ''
+title: "Se synem v\_koupelně"
 contentType: prose
 ---
 
-Se synem v koupelně
+_Obírá mi psí chlupy ze zad.  
+Úplně první počítání.  
+S písklecí neobratností,  
+ale pýchou, se vší vážností,  
+která nesnese analýzu._
 
-> Obírá mi psí chlupy ze zad.  
-> Úplně první počítání.  
-> S písklecí neobratností,  
-> ale pýchou, se vší vážností,  
-> která nesnese analýzu.
+_Ani nedýchá.  
+Chlup po chlupu odklepává na zem,  
+jako by se zbavoval lepivých chmur  
+a jejich čerstvé neústupnosti.  
+Jako by vybíral třísky mé paměti._
 
-> Ani nedýchá.  
-> Chlup po chlupu odklepává na zem,  
-> jako by se zbavoval lepivých chmur  
-> a jejich čerstvé neústupnosti.  
-> Jako by vybíral třísky mé paměti.
-
-> Chtěl bych mu toho říct víc,  
-> už teď.  
-> Ale zatím ho nechávám  
-> obírat chlupy.
+_Chtěl bych mu toho říct víc,  
+už teď.  
+Ale zatím ho nechávám  
+obírat chlupy._

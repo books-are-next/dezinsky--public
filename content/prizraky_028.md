@@ -1,18 +1,16 @@
 ---
-title: ''
+title: "O\_mém synovi"
 contentType: prose
 ---
 
-O mém synovi
+_Malá ruka v šeru  
+jako by hledala nějaký tunel,  
+pulsující lázeň_
 
-> Malá ruka v šeru  
-> jako by hledala nějaký tunel,  
-> pulsující lázeň
+_potažená kůží na kabelky,  
+malátná jak aligátor v bahně._
 
-> potažená kůží na kabelky,  
-> malátná jak aligátor v bahně.
-
-> Výhřevnost kosti nevytváří saze —  
-> rozněcuje místnost jak v růžové vodě:  
-> já jsem ten plod, bílý líný motýl,  
-> ta křehká báze.
+_Výhřevnost kosti nevytváří saze —  
+rozněcuje místnost jak v růžové vodě:  
+já jsem ten plod, bílý líný motýl,  
+ta křehká báze._
