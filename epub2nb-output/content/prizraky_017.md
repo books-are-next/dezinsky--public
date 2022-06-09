@@ -1,21 +1,19 @@
 ---
-title: ''
+title: Ráno je optimistické
 contentType: prose
 ---
 
-Ráno je optimistické
+_Ten ještěrčí úlek, že něco ztrácím,  
+aniž jsem měl.  
+Zármutek je křeč mouchy na okenní římse,  
+která stále ještě kmitá blanitými křídly  
+tou ohromnou frekvencí,  
+ale hmyzí svět kolem ní  
+už trpně poodlétá._
 
-> Ten ještěrčí úlek, že něco ztrácím,  
-> aniž jsem měl.  
-> Zármutek je křeč mouchy na okenní římse,  
-> která stále ještě kmitá blanitými křídly  
-> tou ohromnou frekvencí,  
-> ale hmyzí svět kolem ní  
-> už trpně poodlétá.
+_V podzemních příbytcích  
+se chystá ráno  
+optimistické jak čisté nádobí  
+a já budu jeho účastníkem._
 
-> V podzemních příbytcích  
-> se chystá ráno  
-> optimistické jak čisté nádobí  
-> a já budu jeho účastníkem.
-
-> Rozvážně se ustrojím.
+_Rozvážně se ustrojím._

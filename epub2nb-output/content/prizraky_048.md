@@ -1,16 +1,14 @@
 ---
-title: ''
+title: Čára života
 contentType: prose
 ---
 
-Čára života
+_Kůže napjatá jak plátno,  
+na každém místě bolavá,  
+noc přerovnávala žebra  
+na pravá a na levá._
 
-> Kůže napjatá jak plátno,  
-> na každém místě bolavá,  
-> noc přerovnávala žebra  
-> na pravá a na levá.
-
-> A ona smutně v ohni spánku  
-> hledala tou tmou vlastní dlaň,  
-> chtíc vyluštit z ní jednu vrásku  
-> na kůži vyschlé od mýdla.
+_A ona smutně v ohni spánku  
+hledala tou tmou vlastní dlaň,  
+chtíc vyluštit z ní jednu vrásku  
+na kůži vyschlé od mýdla._

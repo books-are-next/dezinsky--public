@@ -8,21 +8,23 @@
       "modified": "2021-11-16T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\ne.booknadpis.*\nheading.id.2\nmlpuroven1cast\nmlpuroven2kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
-      "h4": "",
-      "hr": "",
+      "h2": "MLP.uroven3.nadpis\nMLP.UROVEN3.NADPIS.DRAMA",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "brBefore": ".+12.0\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\ne.bookversebezpredsazeni.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*--I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -663,7 +665,7 @@
         "xhtml": "prizraky_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "prizraky_005.md",
         "xhtml": "prizraky_005.xhtml"
@@ -675,79 +677,79 @@
         "xhtml": "prizraky_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Noční hlídka",
         "subtitleSuggest": "",
         "filename": "prizraky_007.md",
         "xhtml": "prizraky_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Houba",
         "subtitleSuggest": "",
         "filename": "prizraky_008.md",
         "xhtml": "prizraky_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nokturno",
         "subtitleSuggest": "",
         "filename": "prizraky_009.md",
         "xhtml": "prizraky_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Probdělá noc",
         "subtitleSuggest": "",
         "filename": "prizraky_010.md",
         "xhtml": "prizraky_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Generátor",
         "subtitleSuggest": "",
         "filename": "prizraky_011.md",
         "xhtml": "prizraky_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svědectví",
         "subtitleSuggest": "",
         "filename": "prizraky_012.md",
         "xhtml": "prizraky_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Po noci",
         "subtitleSuggest": "",
         "filename": "prizraky_013.md",
         "xhtml": "prizraky_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "To není selhání",
         "subtitleSuggest": "",
         "filename": "prizraky_014.md",
         "xhtml": "prizraky_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "prizraky_015.md",
         "xhtml": "prizraky_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Příchod domů",
         "subtitleSuggest": "",
         "filename": "prizraky_016.md",
         "xhtml": "prizraky_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ráno je optimistické",
         "subtitleSuggest": "",
         "filename": "prizraky_017.md",
         "xhtml": "prizraky_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Balvan",
         "subtitleSuggest": "",
         "filename": "prizraky_018.md",
         "xhtml": "prizraky_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Porfyriova mapa",
         "subtitleSuggest": "",
         "filename": "prizraky_019.md",
         "xhtml": "prizraky_019.xhtml"
@@ -759,169 +761,169 @@
         "xhtml": "prizraky_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Božské stvoření",
         "subtitleSuggest": "",
         "filename": "prizraky_021.md",
         "xhtml": "prizraky_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Roztoč",
         "subtitleSuggest": "",
         "filename": "prizraky_022.md",
         "xhtml": "prizraky_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Říjen",
         "subtitleSuggest": "",
         "filename": "prizraky_023.md",
         "xhtml": "prizraky_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Milostná I",
         "subtitleSuggest": "",
         "filename": "prizraky_024.md",
         "xhtml": "prizraky_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Milostná II",
         "subtitleSuggest": "",
         "filename": "prizraky_025.md",
         "xhtml": "prizraky_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bouře",
         "subtitleSuggest": "",
         "filename": "prizraky_026.md",
         "xhtml": "prizraky_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Siesta",
         "subtitleSuggest": "",
         "filename": "prizraky_027.md",
         "xhtml": "prizraky_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O mém synovi",
         "subtitleSuggest": "",
         "filename": "prizraky_028.md",
         "xhtml": "prizraky_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Se synem v koupelně",
         "subtitleSuggest": "",
         "filename": "prizraky_029.md",
         "xhtml": "prizraky_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Smutná neděle",
         "subtitleSuggest": "",
         "filename": "prizraky_030.md",
         "xhtml": "prizraky_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Oceány",
         "subtitleSuggest": "",
         "filename": "prizraky_031.md",
         "xhtml": "prizraky_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hrabu se v hlíně",
         "subtitleSuggest": "",
         "filename": "prizraky_032.md",
         "xhtml": "prizraky_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapsa větru",
         "subtitleSuggest": "",
         "filename": "prizraky_033.md",
         "xhtml": "prizraky_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Strom v květu",
         "subtitleSuggest": "",
         "filename": "prizraky_034.md",
         "xhtml": "prizraky_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pád kaštanu",
         "subtitleSuggest": "",
         "filename": "prizraky_035.md",
         "xhtml": "prizraky_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Metafyzika",
         "subtitleSuggest": "",
         "filename": "prizraky_036.md",
         "xhtml": "prizraky_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nadýchaný květ",
         "subtitleSuggest": "",
         "filename": "prizraky_037.md",
         "xhtml": "prizraky_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ovoce",
         "subtitleSuggest": "",
         "filename": "prizraky_038.md",
         "xhtml": "prizraky_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věštění z cibule",
         "subtitleSuggest": "",
         "filename": "prizraky_039.md",
         "xhtml": "prizraky_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Strž",
         "subtitleSuggest": "",
         "filename": "prizraky_040.md",
         "xhtml": "prizraky_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hydroterapie",
         "subtitleSuggest": "",
         "filename": "prizraky_041.md",
         "xhtml": "prizraky_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Spřízněnost",
         "subtitleSuggest": "",
         "filename": "prizraky_042.md",
         "xhtml": "prizraky_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nehet",
         "subtitleSuggest": "",
         "filename": "prizraky_043.md",
         "xhtml": "prizraky_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Soumrak",
         "subtitleSuggest": "",
         "filename": "prizraky_044.md",
         "xhtml": "prizraky_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Padají hrušky",
         "subtitleSuggest": "",
         "filename": "prizraky_045.md",
         "xhtml": "prizraky_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nietzsche",
         "subtitleSuggest": "",
         "filename": "prizraky_046.md",
         "xhtml": "prizraky_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Shakespeare",
         "subtitleSuggest": "",
         "filename": "prizraky_047.md",
         "xhtml": "prizraky_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čára života",
         "subtitleSuggest": "",
         "filename": "prizraky_048.md",
         "xhtml": "prizraky_048.xhtml"
@@ -933,25 +935,25 @@
         "xhtml": "prizraky_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Přízraky",
         "subtitleSuggest": "",
         "filename": "prizraky_050.md",
         "xhtml": "prizraky_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "prizraky_051.md",
         "xhtml": "prizraky_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Muž se směje do dutiny stromu",
         "subtitleSuggest": "",
         "filename": "prizraky_052.md",
         "xhtml": "prizraky_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Z okna",
         "subtitleSuggest": "",
         "filename": "prizraky_053.md",
         "xhtml": "prizraky_053.xhtml"
@@ -1033,6 +1035,6 @@
       "user": "books-are-next",
       "repo": "dezinsky-prizraky"
     },
-    "generatedAt": 1652420904469
+    "generatedAt": 1654773438579
   }
 }

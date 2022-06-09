@@ -1,16 +1,14 @@
 ---
-title: ''
+title: Oceány
 contentType: prose
 ---
 
-Oceány
+_Ještě neujasněné příběhy,  
+kterých každá věc je plná  
+prozatím a navždy  
+tak nevědomky,  
+jako si hlídá nohy žena,  
+vyrůstají z oceánu všednosti,_
 
-> Ještě neujasněné příběhy,  
-> kterých každá věc je plná  
-> prozatím a navždy  
-> tak nevědomky,  
-> jako si hlídá nohy žena,  
-> vyrůstají z oceánu všednosti,
-
-> z mého oceánu,  
-> z oceánu, který vlastní každý.
+_z mého oceánu,  
+z oceánu, který vlastní každý._
