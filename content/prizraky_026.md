@@ -3,6 +3,8 @@ title: Bouře
 contentType: prose
 ---
 
+<section>
+
 _Možná někde za bouře  
 stojí na terase a dívá se do deště,  
 ta bouře plane v ní, oceán rozbouřený  
@@ -17,3 +19,5 @@ letící jak anděl vzduchem
 nad hlubokou strží plnou vody,  
 ve které vidí proplouvat  
 malé, stočené ryby._
+
+</section>

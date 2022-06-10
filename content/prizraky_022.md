@@ -3,6 +3,8 @@ title: Roztoč
 contentType: prose
 ---
 
+<section>
+
 _Jeho postoj je  
 broušená struktura smaragdu,  
 ale stín se kroutí bujnou svéhlavostí.  
@@ -15,3 +17,5 @@ pozorovat černé štiky rukou,
 sedět si tak sám, pohlcován a ztracen  
 jak roztoč, co v šustivé houšti vláken  
 okusuje šupinu kůže._
+
+</section>

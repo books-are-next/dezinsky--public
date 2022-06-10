@@ -3,6 +3,8 @@ title: To není selhání
 contentType: prose
 ---
 
+<section>
+
 _Vítr skučí po rozškrábaných nohou  
 jako nocí nadupaný plch.  
 Ještě když vítězím,  
@@ -20,3 +22,5 @@ jak přeslazený meloun.
 Teď si uvědomuji, že možná při tanci  
 se jen zoufale snažím  
 něčeho zachytit._
+
+</section>

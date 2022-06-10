@@ -3,6 +3,8 @@ title: Siesta
 contentType: prose
 ---
 
+<section>
+
 _Janičce_
 
 _Chtěl bych usnout,  
@@ -20,3 +22,5 @@ vůni kávy s nepřečteným proroctvím.
 To vše riskuji  
 těch několik matně blýskavých  
 vteřin před usnutím._
+
+</section>

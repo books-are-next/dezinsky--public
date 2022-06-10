@@ -3,6 +3,8 @@ title: Po noci
 contentType: prose
 ---
 
+<section>
+
 _Po noci,  
 v níž vítr houral ve žlebech  
 a křivých škvírách spánku,  
@@ -17,9 +19,15 @@ tu tmu uvnitř hlízy srdce,
 protože nespíš zchváceností  
 ze vzrušení a zvědavosti._
 
+</section>
+
+<section>
+
 _Jsi kořist na vábnici,  
 ztuhlá jako ostatní,  
 vydaná do prázdna  
 dutého jak amfora ukrytá ve zdi,  
 vyslaná do černoty, skrz jejíž hledí  
 zhasínají hvězdy._
+
+</section>

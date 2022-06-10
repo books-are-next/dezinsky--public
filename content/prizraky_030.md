@@ -3,6 +3,8 @@ title: Smutná neděle
 contentType: prose
 ---
 
+<section>
+
 _Je tak smutno a šero,  
 i pes loudí o mou přízeň,  
 Jana a Matyáš odjeli do Slezska;  
@@ -13,8 +15,14 @@ Někteří jdou z návštěv,
 těch je málo,  
 nesou si buchty v míse._
 
+</section>
+
+<section>
+
 _Do listopadu schoulení holubi  
 sedí tak opuštěně na protější střeše,  
 stmívá se,  
 modrá světla v oknech,  
 ale nesvítí se._
+
+</section>

@@ -3,6 +3,8 @@ title: Ovoce
 contentType: prose
 ---
 
+<section>
+
 _Pojídá smutek jak ovoce,  
 zdál se tak silný,  
 závrať vědění.  
@@ -14,3 +16,5 @@ toho svědění;
 žádný strach z toho, co bude,  
 jen z toho, co je,  
 kde je teď, kdo ho sem pozval…_
+
+</section>

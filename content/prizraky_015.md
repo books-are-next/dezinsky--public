@@ -3,6 +3,8 @@ title: '* * *'
 contentType: prose
 ---
 
+<section>
+
 _Má marnosti! Má pýcho!_
 
 _To, že je lehčí rozplakat  
@@ -20,3 +22,5 @@ jak ztuhlý i napjatý sval.
 Večery, večery a noci,  
 má marnosti!  
 o kterou jsem stál._
+
+</section>

@@ -3,6 +3,8 @@ title: Hydroterapie
 contentType: prose
 ---
 
+<section>
+
 _Chytila ses další z posledních šancí,  
 ale teď stojíš v louži, bez bot,  
 motolice punčoch sají špínu  
@@ -21,3 +23,5 @@ až zkamení noční motýli,
 se má práchnivina smísí s tvou,  
 mumlavý vítr  
 nás v šedý oblak rozptýlí…_
+
+</section>
