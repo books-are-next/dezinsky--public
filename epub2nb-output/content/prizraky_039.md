@@ -3,6 +3,8 @@ title: Věštění z cibule
 contentType: prose
 ---
 
+<section>
+
 _Loupe cibuli. Je to jak věštění.  
 Šepot každé vrstvy  
 dvakrát smyslný,  
@@ -18,6 +20,12 @@ Snad proto je tak krásná,
 a zůstává jen štiplavost  
 po posledním soustu._
 
+</section>
+
+<section>
+
 _Plody a hlízy se hroutí dovnitř  
 a žloutnou, hnědnou, černají —  
 takový je postup._
+
+</section>

@@ -3,6 +3,8 @@ title: Strž
 contentType: prose
 ---
 
+<section>
+
 _Tady ta strž,  
 kterou poválela zdechlá kočka,  
 je jen díra do propasti,  
@@ -12,3 +14,5 @@ jak sklivci…
 Ještě nikdo nevyšel.  
 Hledět do ní z křesla  
 je tak pohodlné._
+
+</section>

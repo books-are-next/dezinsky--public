@@ -3,6 +3,8 @@ title: Houba
 contentType: prose
 ---
 
+<section>
+
 _Je nasákavá houba uprostřed lesů,  
 plná jak těhotenství  
 s růstem šupin nehtů,  
@@ -14,3 +16,5 @@ Netěžknou tu myšlenky géniů.
 Neví se, odkud se tu berou podněty.  
 Ta houba  
 se v noci mění v srdeční sval._
+
+</section>

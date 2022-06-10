@@ -3,6 +3,8 @@ title: Nietzsche
 contentType: prose
 ---
 
+<section>
+
 _Prý co je ve filozofii,  
 dřív bylo v poezii,  
 v tom světě, v němž vlhkostí líhně  
@@ -16,3 +18,5 @@ A proto je křehká
 jak podežrané krovy,  
 co se musí odečtenou chvílí  
 ve vaznici zlomit._
+
+</section>

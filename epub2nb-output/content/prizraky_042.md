@@ -3,6 +3,8 @@ title: Spřízněnost
 contentType: prose
 ---
 
+<section>
+
 _básníkům mrtvým i živým_
 
 _Jsme každý jinde  
@@ -14,3 +16,5 @@ hluší, co se slyší.
 čtenáři úplňku,  
 směšní pro dobu,  
 pomatení pro skutečnost._
+
+</section>

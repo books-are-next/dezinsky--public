@@ -3,6 +3,8 @@ title: Říjen
 contentType: prose
 ---
 
+<section>
+
 _Poslední, co ještě zbývá,  
 jsou jména. Ten prastarý vítr  
 je obrací jak střešní tašky.  
@@ -17,3 +19,5 @@ jak deky z paland.
 Někteří jsou smutní.  
 Pozorují z okna děti.  
 Za tříkolkou se vlní šála._
+
+</section>
