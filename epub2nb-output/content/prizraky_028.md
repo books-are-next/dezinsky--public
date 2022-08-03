@@ -1,28 +1,28 @@
 ---
 title: "O\_mém synovi"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Malá ruka v šeru  
+Malá ruka v šeru  
 jako by hledala nějaký tunel,  
-pulsující lázeň_
+pulsující lázeň
 
 </section>
 
 <section>
 
-_potažená kůží na kabelky,  
-malátná jak aligátor v bahně._
+potažená kůží na kabelky,  
+malátná jak aligátor v bahně.
 
 </section>
 
 <section>
 
-_Výhřevnost kosti nevytváří saze —  
+Výhřevnost kosti nevytváří saze —  
 rozněcuje místnost jak v růžové vodě:  
 já jsem ten plod, bílý líný motýl,  
-ta křehká báze._
+ta křehká báze.
 
 </section>

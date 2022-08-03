@@ -1,23 +1,23 @@
 ---
 title: Nadýchaný květ
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je řeka široká a temná,  
+Je řeka široká a temná,  
 hutná a mazlavá  
 mé nevtíravé existence —  
 a nespaluje, ani nechladí.  
 Chumel odrazů  
 matného, utajeného světla  
-nabízejícího se sítnici…_
+nabízejícího se sítnici…
 
 </section>
 
 <section>
 
-_Tolik ztišeného křiku,  
+Tolik ztišeného křiku,  
 těžce dýchajících hrudníčků,  
 tolik dehtu na plicích,  
 že není jen jedna odpověď  
@@ -26,6 +26,6 @@ I přežití extremofily
 závisí na vůli ohně,  
 jedovatých plynů a kyselin,  
 co kolem vytvářejí růži,  
-nadýchaný květ, ve kterém dá se žít._
+nadýchaný květ, ve kterém dá se žít.
 
 </section>

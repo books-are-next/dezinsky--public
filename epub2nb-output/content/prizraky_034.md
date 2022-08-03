@@ -1,11 +1,11 @@
 ---
 title: "Strom v\_květu"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Rozkvetlá koruna jako korál,  
+Rozkvetlá koruna jako korál,  
 v němž vášní hučí podmořské včely.  
 Včelí jazyk je vyděrač.  
 A tak to bolí za zátylkem,  
@@ -21,6 +21,6 @@ na startovní čáře a strom je stejně nakročený,
 oba jak neujasněný slib,  
 kdo vydrží déle stárnout;  
 čekáte na startovní výstřel,  
-do kterého byste padli…_
+do kterého byste padli…
 
 </section>

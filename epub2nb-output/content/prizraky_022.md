@@ -1,11 +1,11 @@
 ---
 title: Roztoč
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jeho postoj je  
+Jeho postoj je  
 broušená struktura smaragdu,  
 ale stín se kroutí bujnou svéhlavostí.  
 Ušetřil si tenhle čas,  
@@ -16,6 +16,6 @@ Spokojen sám sebou;
 pozorovat černé štiky rukou,  
 sedět si tak sám, pohlcován a ztracen  
 jak roztoč, co v šustivé houšti vláken  
-okusuje šupinu kůže._
+okusuje šupinu kůže.
 
 </section>

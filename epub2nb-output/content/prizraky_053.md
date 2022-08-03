@@ -1,11 +1,11 @@
 ---
 title: Z okna
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nikdy jsi nebyl vidět.  
+Nikdy jsi nebyl vidět.  
 Psí hrozen zametal ulici  
 pokrytou škraloupem.  
 Chvíli bylo slyšet hučet topení  
@@ -17,6 +17,6 @@ jak bílou vlajkou.
 Nebylo slyšet, co říkal,  
 ale zdálo se, že nelituje  
 žádných rozhodnutí.  
-Ukázal i na tebe._
+Ukázal i na tebe.
 
 </section>

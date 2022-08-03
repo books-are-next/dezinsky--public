@@ -1,6 +1,6 @@
 ---
 title: BOŽSKÉ STVOŘENÍ
-contentType: prose
+contentType: poetry
 ---
 
 

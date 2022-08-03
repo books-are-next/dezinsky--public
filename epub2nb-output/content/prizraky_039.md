@@ -1,11 +1,11 @@
 ---
 title: Věštění z cibule
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Loupe cibuli. Je to jak věštění.  
+Loupe cibuli. Je to jak věštění.  
 Šepot každé vrstvy  
 dvakrát smyslný,  
 že pod každým oděvem  
@@ -18,14 +18,14 @@ jenž bortí kulatost.
 Snad proto je tak krásná,  
 že ji ohlodává živel zmaru  
 a zůstává jen štiplavost  
-po posledním soustu._
+po posledním soustu.
 
 </section>
 
 <section>
 
-_Plody a hlízy se hroutí dovnitř  
+Plody a hlízy se hroutí dovnitř  
 a žloutnou, hnědnou, černají —  
-takový je postup._
+takový je postup.
 
 </section>

@@ -1,31 +1,31 @@
 ---
 title: Ráno je optimistické
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ten ještěrčí úlek, že něco ztrácím,  
+Ten ještěrčí úlek, že něco ztrácím,  
 aniž jsem měl.  
 Zármutek je křeč mouchy na okenní římse,  
 která stále ještě kmitá blanitými křídly  
 tou ohromnou frekvencí,  
 ale hmyzí svět kolem ní  
-už trpně poodlétá._
+už trpně poodlétá.
 
 </section>
 
 <section>
 
-_V podzemních příbytcích  
+V podzemních příbytcích  
 se chystá ráno  
 optimistické jak čisté nádobí  
-a já budu jeho účastníkem._
+a já budu jeho účastníkem.
 
 </section>
 
 <section>
 
-_Rozvážně se ustrojím._
+Rozvážně se ustrojím.
 
 </section>

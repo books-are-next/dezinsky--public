@@ -1,11 +1,11 @@
 ---
 title: Hydroterapie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Chytila ses další z posledních šancí,  
+Chytila ses další z posledních šancí,  
 ale teď stojíš v louži, bez bot,  
 motolice punčoch sají špínu  
 jak karbanátky.  
@@ -22,6 +22,6 @@ Snad až zvětrají pohoří,
 až zkamení noční motýli,  
 se má práchnivina smísí s tvou,  
 mumlavý vítr  
-nás v šedý oblak rozptýlí…_
+nás v šedý oblak rozptýlí…
 
 </section>

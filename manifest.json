@@ -1,0 +1,1096 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Přízraky",
+  "author": "Milan Děžinský",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "dezinsky-prizraky-036b9b2",
+  "revision": "036b9b2",
+  "readingOrder": [
+    "promo.html",
+    "prizraky_005.html",
+    "prizraky_006.html",
+    "prizraky_007.html",
+    "prizraky_008.html",
+    "prizraky_009.html",
+    "prizraky_010.html",
+    "prizraky_011.html",
+    "prizraky_012.html",
+    "prizraky_013.html",
+    "prizraky_014.html",
+    "prizraky_015.html",
+    "prizraky_016.html",
+    "prizraky_017.html",
+    "prizraky_018.html",
+    "prizraky_019.html",
+    "prizraky_020.html",
+    "prizraky_021.html",
+    "prizraky_022.html",
+    "prizraky_023.html",
+    "prizraky_024.html",
+    "prizraky_025.html",
+    "prizraky_026.html",
+    "prizraky_027.html",
+    "prizraky_028.html",
+    "prizraky_029.html",
+    "prizraky_030.html",
+    "prizraky_031.html",
+    "prizraky_032.html",
+    "prizraky_033.html",
+    "prizraky_034.html",
+    "prizraky_035.html",
+    "prizraky_036.html",
+    "prizraky_037.html",
+    "prizraky_038.html",
+    "prizraky_039.html",
+    "prizraky_040.html",
+    "prizraky_041.html",
+    "prizraky_042.html",
+    "prizraky_043.html",
+    "prizraky_044.html",
+    "prizraky_045.html",
+    "prizraky_046.html",
+    "prizraky_047.html",
+    "prizraky_048.html",
+    "prizraky_049.html",
+    "prizraky_050.html",
+    "prizraky_051.html",
+    "prizraky_052.html",
+    "prizraky_053.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Aug 03 2022 09:58:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659520698902
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "prizraky_005.html",
+      "toc": []
+    },
+    {
+      "title": "* * *",
+      "file": "prizraky_005.html",
+      "words": 29,
+      "chars": 142,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "prizraky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "NOČNÍ HLÍDKA",
+      "file": "prizraky_006.html",
+      "words": 2,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "prizraky_005.html",
+      "next": "prizraky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "NOČNÍ HLÍDKA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční hlídka",
+      "file": "prizraky_007.html",
+      "words": 25,
+      "chars": 148,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "prizraky_006.html",
+      "next": "prizraky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční hlídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Houba",
+      "file": "prizraky_008.html",
+      "words": 51,
+      "chars": 283,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 4,
+      "prev": "prizraky_007.html",
+      "next": "prizraky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Houba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nokturno",
+      "file": "prizraky_009.html",
+      "words": 56,
+      "chars": 330,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 5,
+      "prev": "prizraky_008.html",
+      "next": "prizraky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nokturno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Probdělá noc",
+      "file": "prizraky_010.html",
+      "words": 40,
+      "chars": 222,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 6,
+      "prev": "prizraky_009.html",
+      "next": "prizraky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Probdělá noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Generátor",
+      "file": "prizraky_011.html",
+      "words": 83,
+      "chars": 510,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 7,
+      "prev": "prizraky_010.html",
+      "next": "prizraky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Generátor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svědectví",
+      "file": "prizraky_012.html",
+      "words": 32,
+      "chars": 196,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 8,
+      "prev": "prizraky_011.html",
+      "next": "prizraky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svědectví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po noci",
+      "file": "prizraky_013.html",
+      "words": 84,
+      "chars": 472,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 9,
+      "prev": "prizraky_012.html",
+      "next": "prizraky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To není selhání",
+      "file": "prizraky_014.html",
+      "words": 72,
+      "chars": 429,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 10,
+      "prev": "prizraky_013.html",
+      "next": "prizraky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To není selhání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "prizraky_015.html",
+      "words": 65,
+      "chars": 337,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 11,
+      "prev": "prizraky_014.html",
+      "next": "prizraky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příchod domů",
+      "file": "prizraky_016.html",
+      "words": 68,
+      "chars": 404,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 12,
+      "prev": "prizraky_015.html",
+      "next": "prizraky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příchod domů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ráno je optimistické",
+      "file": "prizraky_017.html",
+      "words": 54,
+      "chars": 326,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 13,
+      "prev": "prizraky_016.html",
+      "next": "prizraky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ráno je optimistické",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balvan",
+      "file": "prizraky_018.html",
+      "words": 79,
+      "chars": 478,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 14,
+      "prev": "prizraky_017.html",
+      "next": "prizraky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balvan",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Porfyriova mapa",
+      "file": "prizraky_019.html",
+      "words": 42,
+      "chars": 267,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 15,
+      "prev": "prizraky_018.html",
+      "next": "prizraky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Porfyriova mapa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "BOŽSKÉ STVOŘENÍ",
+      "file": "prizraky_020.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 16,
+      "prev": "prizraky_019.html",
+      "next": "prizraky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "BOŽSKÉ STVOŘENÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Božské stvoření",
+      "file": "prizraky_021.html",
+      "words": 35,
+      "chars": 192,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 17,
+      "prev": "prizraky_020.html",
+      "next": "prizraky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Božské stvoření",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Roztoč",
+      "file": "prizraky_022.html",
+      "words": 56,
+      "chars": 327,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 18,
+      "prev": "prizraky_021.html",
+      "next": "prizraky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Roztoč",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Říjen",
+      "file": "prizraky_023.html",
+      "words": 55,
+      "chars": 326,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 19,
+      "prev": "prizraky_022.html",
+      "next": "prizraky_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Říjen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milostná I",
+      "file": "prizraky_024.html",
+      "words": 66,
+      "chars": 345,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 20,
+      "prev": "prizraky_023.html",
+      "next": "prizraky_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milostná I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milostná II",
+      "file": "prizraky_025.html",
+      "words": 25,
+      "chars": 153,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 21,
+      "prev": "prizraky_024.html",
+      "next": "prizraky_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milostná II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bouře",
+      "file": "prizraky_026.html",
+      "words": 71,
+      "chars": 388,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "prizraky_025.html",
+      "next": "prizraky_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bouře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Siesta",
+      "file": "prizraky_027.html",
+      "words": 63,
+      "chars": 370,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 23,
+      "prev": "prizraky_026.html",
+      "next": "prizraky_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Siesta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O mém synovi",
+      "file": "prizraky_028.html",
+      "words": 44,
+      "chars": 245,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 24,
+      "prev": "prizraky_027.html",
+      "next": "prizraky_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O mém synovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Se synem v koupelně",
+      "file": "prizraky_029.html",
+      "words": 62,
+      "chars": 353,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 25,
+      "prev": "prizraky_028.html",
+      "next": "prizraky_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Se synem v koupelně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smutná neděle",
+      "file": "prizraky_030.html",
+      "words": 67,
+      "chars": 360,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 26,
+      "prev": "prizraky_029.html",
+      "next": "prizraky_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smutná neděle",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oceány",
+      "file": "prizraky_031.html",
+      "words": 31,
+      "chars": 184,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "prizraky_030.html",
+      "next": "prizraky_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oceány",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrabu se v hlíně",
+      "file": "prizraky_032.html",
+      "words": 98,
+      "chars": 561,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 28,
+      "prev": "prizraky_031.html",
+      "next": "prizraky_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hrabu se v hlíně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapsa větru",
+      "file": "prizraky_033.html",
+      "words": 60,
+      "chars": 330,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 29,
+      "prev": "prizraky_032.html",
+      "next": "prizraky_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapsa větru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strom v květu",
+      "file": "prizraky_034.html",
+      "words": 86,
+      "chars": 482,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 30,
+      "prev": "prizraky_033.html",
+      "next": "prizraky_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strom v květu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pád kaštanu",
+      "file": "prizraky_035.html",
+      "words": 51,
+      "chars": 310,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 31,
+      "prev": "prizraky_034.html",
+      "next": "prizraky_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pád kaštanu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Metafyzika",
+      "file": "prizraky_036.html",
+      "words": 28,
+      "chars": 186,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 32,
+      "prev": "prizraky_035.html",
+      "next": "prizraky_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Metafyzika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nadýchaný květ",
+      "file": "prizraky_037.html",
+      "words": 66,
+      "chars": 408,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 33,
+      "prev": "prizraky_036.html",
+      "next": "prizraky_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nadýchaný květ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ovoce",
+      "file": "prizraky_038.html",
+      "words": 47,
+      "chars": 246,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 34,
+      "prev": "prizraky_037.html",
+      "next": "prizraky_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ovoce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věštění z cibule",
+      "file": "prizraky_039.html",
+      "words": 71,
+      "chars": 415,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 35,
+      "prev": "prizraky_038.html",
+      "next": "prizraky_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věštění z cibule",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strž",
+      "file": "prizraky_040.html",
+      "words": 36,
+      "chars": 206,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 36,
+      "prev": "prizraky_039.html",
+      "next": "prizraky_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strž",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hydroterapie",
+      "file": "prizraky_041.html",
+      "words": 72,
+      "chars": 416,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 37,
+      "prev": "prizraky_040.html",
+      "next": "prizraky_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hydroterapie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spřízněnost",
+      "file": "prizraky_042.html",
+      "words": 44,
+      "chars": 253,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 38,
+      "prev": "prizraky_041.html",
+      "next": "prizraky_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spřízněnost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nehet",
+      "file": "prizraky_043.html",
+      "words": 70,
+      "chars": 419,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 39,
+      "prev": "prizraky_042.html",
+      "next": "prizraky_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nehet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Soumrak",
+      "file": "prizraky_044.html",
+      "words": 82,
+      "chars": 475,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 40,
+      "prev": "prizraky_043.html",
+      "next": "prizraky_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Soumrak",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Padají hrušky",
+      "file": "prizraky_045.html",
+      "words": 30,
+      "chars": 171,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 41,
+      "prev": "prizraky_044.html",
+      "next": "prizraky_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Padají hrušky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nietzsche",
+      "file": "prizraky_046.html",
+      "words": 55,
+      "chars": 315,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 42,
+      "prev": "prizraky_045.html",
+      "next": "prizraky_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nietzsche",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Shakespeare",
+      "file": "prizraky_047.html",
+      "words": 32,
+      "chars": 203,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "prizraky_046.html",
+      "next": "prizraky_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Shakespeare",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čára života",
+      "file": "prizraky_048.html",
+      "words": 40,
+      "chars": 212,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 44,
+      "prev": "prizraky_047.html",
+      "next": "prizraky_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čára života",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŘÍZRAKY",
+      "file": "prizraky_049.html",
+      "words": 1,
+      "chars": 8,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 45,
+      "prev": "prizraky_048.html",
+      "next": "prizraky_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘÍZRAKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přízraky",
+      "file": "prizraky_050.html",
+      "words": 79,
+      "chars": 407,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 46,
+      "prev": "prizraky_049.html",
+      "next": "prizraky_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přízraky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "prizraky_051.html",
+      "words": 74,
+      "chars": 389,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 47,
+      "prev": "prizraky_050.html",
+      "next": "prizraky_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "* * *",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Muž se směje do dutiny stromu",
+      "file": "prizraky_052.html",
+      "words": 60,
+      "chars": 321,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 48,
+      "prev": "prizraky_051.html",
+      "next": "prizraky_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Muž se směje do dutiny stromu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z okna",
+      "file": "prizraky_053.html",
+      "words": 53,
+      "chars": 318,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 49,
+      "prev": "prizraky_052.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z okna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 139,
+      "chars": 895,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "prizraky_053.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2738,
+      "chars": 15791,
+      "ideas": 667
+    },
+    "chapters": {
+      "words": 2594,
+      "chars": 14865,
+      "ideas": 645
+    }
+  }
+}

@@ -1,13 +1,13 @@
 ---
 title: Nokturno
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _Janičce_
 
-_Na kraji lůžka  
+Na kraji lůžka  
 ve chvění jeho dechu  
 všechno vychládá.  
 Na zdech ložnice  
@@ -22,6 +22,6 @@ Pod okna připlul snad
 vyrabovaný koráb,  
 který je vkusně nasvícen.  
 Noc má svá pravidla  
-pro bdící._
+pro bdící.
 
 </section>
