@@ -1,1 +1,1152 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Přízraky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Milan Děžinský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-16T00:00:00.000Z",
+      "edition": "poezie",
+      "publisherShort": "mkp",
+      "contentType": "poetry"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": "MLP_znak_kurziva_11b\nMLP_verse_-I-_-0-0--\nMLP_verse_-I-_-0-0--",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "prizraky_001.md",
+            "xhtml": "prizraky_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prizraky_002.md",
+            "xhtml": "prizraky_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prizraky_003.md",
+            "xhtml": "prizraky_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prizraky_004.md",
+            "xhtml": "prizraky_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prizraky_005.md",
+            "xhtml": "prizraky_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "* * *"
+          },
+          {
+            "filename": "prizraky_006.md",
+            "xhtml": "prizraky_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "prizraky_007.md",
+                "xhtml": "prizraky_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Noční hlídka"
+              },
+              {
+                "filename": "prizraky_008.md",
+                "xhtml": "prizraky_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Houba"
+              },
+              {
+                "filename": "prizraky_009.md",
+                "xhtml": "prizraky_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nokturno"
+              },
+              {
+                "filename": "prizraky_010.md",
+                "xhtml": "prizraky_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Probdělá noc"
+              },
+              {
+                "filename": "prizraky_011.md",
+                "xhtml": "prizraky_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Generátor"
+              },
+              {
+                "filename": "prizraky_012.md",
+                "xhtml": "prizraky_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Svědectví"
+              },
+              {
+                "filename": "prizraky_013.md",
+                "xhtml": "prizraky_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Po noci"
+              },
+              {
+                "filename": "prizraky_014.md",
+                "xhtml": "prizraky_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "To není selhání"
+              },
+              {
+                "filename": "prizraky_015.md",
+                "xhtml": "prizraky_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "* * *"
+              },
+              {
+                "filename": "prizraky_016.md",
+                "xhtml": "prizraky_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Příchod domů"
+              },
+              {
+                "filename": "prizraky_017.md",
+                "xhtml": "prizraky_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ráno je optimistické"
+              },
+              {
+                "filename": "prizraky_018.md",
+                "xhtml": "prizraky_018.xhtml",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Balvan"
+              },
+              {
+                "filename": "prizraky_019.md",
+                "xhtml": "prizraky_019.xhtml",
+                "id": 18,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Porfyriova mapa"
+              }
+            ],
+            "title": "Noční hlídka"
+          },
+          {
+            "filename": "prizraky_020.md",
+            "xhtml": "prizraky_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "prizraky_021.md",
+                "xhtml": "prizraky_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Božské stvoření"
+              },
+              {
+                "filename": "prizraky_022.md",
+                "xhtml": "prizraky_022.xhtml",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Roztoč"
+              },
+              {
+                "filename": "prizraky_023.md",
+                "xhtml": "prizraky_023.xhtml",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Říjen"
+              },
+              {
+                "filename": "prizraky_024.md",
+                "xhtml": "prizraky_024.xhtml",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Milostná I"
+              },
+              {
+                "filename": "prizraky_025.md",
+                "xhtml": "prizraky_025.xhtml",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Milostná II"
+              },
+              {
+                "filename": "prizraky_026.md",
+                "xhtml": "prizraky_026.xhtml",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Bouře"
+              },
+              {
+                "filename": "prizraky_027.md",
+                "xhtml": "prizraky_027.xhtml",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Siesta"
+              },
+              {
+                "filename": "prizraky_028.md",
+                "xhtml": "prizraky_028.xhtml",
+                "id": 27,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "O mém synovi"
+              },
+              {
+                "filename": "prizraky_029.md",
+                "xhtml": "prizraky_029.xhtml",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Se synem v koupelně"
+              },
+              {
+                "filename": "prizraky_030.md",
+                "xhtml": "prizraky_030.xhtml",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Smutná neděle"
+              },
+              {
+                "filename": "prizraky_031.md",
+                "xhtml": "prizraky_031.xhtml",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Oceány"
+              },
+              {
+                "filename": "prizraky_032.md",
+                "xhtml": "prizraky_032.xhtml",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Hrabu se v hlíně"
+              },
+              {
+                "filename": "prizraky_033.md",
+                "xhtml": "prizraky_033.xhtml",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Kapsa větru"
+              },
+              {
+                "filename": "prizraky_034.md",
+                "xhtml": "prizraky_034.xhtml",
+                "id": 33,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Strom v květu"
+              },
+              {
+                "filename": "prizraky_035.md",
+                "xhtml": "prizraky_035.xhtml",
+                "id": 34,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Pád kaštanu"
+              },
+              {
+                "filename": "prizraky_036.md",
+                "xhtml": "prizraky_036.xhtml",
+                "id": 35,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Metafyzika"
+              },
+              {
+                "filename": "prizraky_037.md",
+                "xhtml": "prizraky_037.xhtml",
+                "id": 36,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nadýchaný květ"
+              },
+              {
+                "filename": "prizraky_038.md",
+                "xhtml": "prizraky_038.xhtml",
+                "id": 37,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Ovoce"
+              },
+              {
+                "filename": "prizraky_039.md",
+                "xhtml": "prizraky_039.xhtml",
+                "id": 38,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Věštění z cibule"
+              },
+              {
+                "filename": "prizraky_040.md",
+                "xhtml": "prizraky_040.xhtml",
+                "id": 39,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Strž"
+              },
+              {
+                "filename": "prizraky_041.md",
+                "xhtml": "prizraky_041.xhtml",
+                "id": 40,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Hydroterapie"
+              },
+              {
+                "filename": "prizraky_042.md",
+                "xhtml": "prizraky_042.xhtml",
+                "id": 41,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Spřízněnost"
+              },
+              {
+                "filename": "prizraky_043.md",
+                "xhtml": "prizraky_043.xhtml",
+                "id": 42,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nehet"
+              },
+              {
+                "filename": "prizraky_044.md",
+                "xhtml": "prizraky_044.xhtml",
+                "id": 43,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Soumrak"
+              },
+              {
+                "filename": "prizraky_045.md",
+                "xhtml": "prizraky_045.xhtml",
+                "id": 44,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Padají hrušky"
+              },
+              {
+                "filename": "prizraky_046.md",
+                "xhtml": "prizraky_046.xhtml",
+                "id": 45,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Nietzsche"
+              },
+              {
+                "filename": "prizraky_047.md",
+                "xhtml": "prizraky_047.xhtml",
+                "id": 46,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Shakespeare"
+              },
+              {
+                "filename": "prizraky_048.md",
+                "xhtml": "prizraky_048.xhtml",
+                "id": 47,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Čára života"
+              }
+            ],
+            "title": "Božské stvoření"
+          },
+          {
+            "filename": "prizraky_049.md",
+            "xhtml": "prizraky_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "prizraky_050.md",
+                "xhtml": "prizraky_050.xhtml",
+                "id": 49,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Přízraky"
+              },
+              {
+                "filename": "prizraky_051.md",
+                "xhtml": "prizraky_051.xhtml",
+                "id": 50,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "* * *"
+              },
+              {
+                "filename": "prizraky_052.md",
+                "xhtml": "prizraky_052.xhtml",
+                "id": 51,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Muž se směje do dutiny stromu"
+              },
+              {
+                "filename": "prizraky_053.md",
+                "xhtml": "prizraky_053.xhtml",
+                "id": 52,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Z okna"
+              }
+            ],
+            "title": "Přízraky"
+          },
+          {
+            "filename": "prizraky_054.md",
+            "xhtml": "prizraky_054.xhtml",
+            "id": 53,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Přízraky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Milan Děžinský",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-16T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prizraky_001.md",
+        "xhtml": "prizraky_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prizraky_002.md",
+        "xhtml": "prizraky_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prizraky_003.md",
+        "xhtml": "prizraky_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prizraky_004.md",
+        "xhtml": "prizraky_004.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "prizraky_005.md",
+        "xhtml": "prizraky_005.xhtml"
+      },
+      {
+        "titleSuggest": "NOČNÍ HLÍDKA",
+        "subtitleSuggest": "",
+        "filename": "prizraky_006.md",
+        "xhtml": "prizraky_006.xhtml"
+      },
+      {
+        "titleSuggest": "Noční hlídka",
+        "subtitleSuggest": "",
+        "filename": "prizraky_007.md",
+        "xhtml": "prizraky_007.xhtml"
+      },
+      {
+        "titleSuggest": "Houba",
+        "subtitleSuggest": "",
+        "filename": "prizraky_008.md",
+        "xhtml": "prizraky_008.xhtml"
+      },
+      {
+        "titleSuggest": "Nokturno",
+        "subtitleSuggest": "",
+        "filename": "prizraky_009.md",
+        "xhtml": "prizraky_009.xhtml"
+      },
+      {
+        "titleSuggest": "Probdělá noc",
+        "subtitleSuggest": "",
+        "filename": "prizraky_010.md",
+        "xhtml": "prizraky_010.xhtml"
+      },
+      {
+        "titleSuggest": "Generátor",
+        "subtitleSuggest": "",
+        "filename": "prizraky_011.md",
+        "xhtml": "prizraky_011.xhtml"
+      },
+      {
+        "titleSuggest": "Svědectví",
+        "subtitleSuggest": "",
+        "filename": "prizraky_012.md",
+        "xhtml": "prizraky_012.xhtml"
+      },
+      {
+        "titleSuggest": "Po noci",
+        "subtitleSuggest": "",
+        "filename": "prizraky_013.md",
+        "xhtml": "prizraky_013.xhtml"
+      },
+      {
+        "titleSuggest": "To není selhání",
+        "subtitleSuggest": "",
+        "filename": "prizraky_014.md",
+        "xhtml": "prizraky_014.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "prizraky_015.md",
+        "xhtml": "prizraky_015.xhtml"
+      },
+      {
+        "titleSuggest": "Příchod domů",
+        "subtitleSuggest": "",
+        "filename": "prizraky_016.md",
+        "xhtml": "prizraky_016.xhtml"
+      },
+      {
+        "titleSuggest": "Ráno je optimistické",
+        "subtitleSuggest": "",
+        "filename": "prizraky_017.md",
+        "xhtml": "prizraky_017.xhtml"
+      },
+      {
+        "titleSuggest": "Balvan",
+        "subtitleSuggest": "",
+        "filename": "prizraky_018.md",
+        "xhtml": "prizraky_018.xhtml"
+      },
+      {
+        "titleSuggest": "Porfyriova mapa",
+        "subtitleSuggest": "",
+        "filename": "prizraky_019.md",
+        "xhtml": "prizraky_019.xhtml"
+      },
+      {
+        "titleSuggest": "BOŽSKÉ STVOŘENÍ",
+        "subtitleSuggest": "",
+        "filename": "prizraky_020.md",
+        "xhtml": "prizraky_020.xhtml"
+      },
+      {
+        "titleSuggest": "Božské stvoření",
+        "subtitleSuggest": "",
+        "filename": "prizraky_021.md",
+        "xhtml": "prizraky_021.xhtml"
+      },
+      {
+        "titleSuggest": "Roztoč",
+        "subtitleSuggest": "",
+        "filename": "prizraky_022.md",
+        "xhtml": "prizraky_022.xhtml"
+      },
+      {
+        "titleSuggest": "Říjen",
+        "subtitleSuggest": "",
+        "filename": "prizraky_023.md",
+        "xhtml": "prizraky_023.xhtml"
+      },
+      {
+        "titleSuggest": "Milostná I",
+        "subtitleSuggest": "",
+        "filename": "prizraky_024.md",
+        "xhtml": "prizraky_024.xhtml"
+      },
+      {
+        "titleSuggest": "Milostná II",
+        "subtitleSuggest": "",
+        "filename": "prizraky_025.md",
+        "xhtml": "prizraky_025.xhtml"
+      },
+      {
+        "titleSuggest": "Bouře",
+        "subtitleSuggest": "",
+        "filename": "prizraky_026.md",
+        "xhtml": "prizraky_026.xhtml"
+      },
+      {
+        "titleSuggest": "Siesta",
+        "subtitleSuggest": "",
+        "filename": "prizraky_027.md",
+        "xhtml": "prizraky_027.xhtml"
+      },
+      {
+        "titleSuggest": "O mém synovi",
+        "subtitleSuggest": "",
+        "filename": "prizraky_028.md",
+        "xhtml": "prizraky_028.xhtml"
+      },
+      {
+        "titleSuggest": "Se synem v koupelně",
+        "subtitleSuggest": "",
+        "filename": "prizraky_029.md",
+        "xhtml": "prizraky_029.xhtml"
+      },
+      {
+        "titleSuggest": "Smutná neděle",
+        "subtitleSuggest": "",
+        "filename": "prizraky_030.md",
+        "xhtml": "prizraky_030.xhtml"
+      },
+      {
+        "titleSuggest": "Oceány",
+        "subtitleSuggest": "",
+        "filename": "prizraky_031.md",
+        "xhtml": "prizraky_031.xhtml"
+      },
+      {
+        "titleSuggest": "Hrabu se v hlíně",
+        "subtitleSuggest": "",
+        "filename": "prizraky_032.md",
+        "xhtml": "prizraky_032.xhtml"
+      },
+      {
+        "titleSuggest": "Kapsa větru",
+        "subtitleSuggest": "",
+        "filename": "prizraky_033.md",
+        "xhtml": "prizraky_033.xhtml"
+      },
+      {
+        "titleSuggest": "Strom v květu",
+        "subtitleSuggest": "",
+        "filename": "prizraky_034.md",
+        "xhtml": "prizraky_034.xhtml"
+      },
+      {
+        "titleSuggest": "Pád kaštanu",
+        "subtitleSuggest": "",
+        "filename": "prizraky_035.md",
+        "xhtml": "prizraky_035.xhtml"
+      },
+      {
+        "titleSuggest": "Metafyzika",
+        "subtitleSuggest": "",
+        "filename": "prizraky_036.md",
+        "xhtml": "prizraky_036.xhtml"
+      },
+      {
+        "titleSuggest": "Nadýchaný květ",
+        "subtitleSuggest": "",
+        "filename": "prizraky_037.md",
+        "xhtml": "prizraky_037.xhtml"
+      },
+      {
+        "titleSuggest": "Ovoce",
+        "subtitleSuggest": "",
+        "filename": "prizraky_038.md",
+        "xhtml": "prizraky_038.xhtml"
+      },
+      {
+        "titleSuggest": "Věštění z cibule",
+        "subtitleSuggest": "",
+        "filename": "prizraky_039.md",
+        "xhtml": "prizraky_039.xhtml"
+      },
+      {
+        "titleSuggest": "Strž",
+        "subtitleSuggest": "",
+        "filename": "prizraky_040.md",
+        "xhtml": "prizraky_040.xhtml"
+      },
+      {
+        "titleSuggest": "Hydroterapie",
+        "subtitleSuggest": "",
+        "filename": "prizraky_041.md",
+        "xhtml": "prizraky_041.xhtml"
+      },
+      {
+        "titleSuggest": "Spřízněnost",
+        "subtitleSuggest": "",
+        "filename": "prizraky_042.md",
+        "xhtml": "prizraky_042.xhtml"
+      },
+      {
+        "titleSuggest": "Nehet",
+        "subtitleSuggest": "",
+        "filename": "prizraky_043.md",
+        "xhtml": "prizraky_043.xhtml"
+      },
+      {
+        "titleSuggest": "Soumrak",
+        "subtitleSuggest": "",
+        "filename": "prizraky_044.md",
+        "xhtml": "prizraky_044.xhtml"
+      },
+      {
+        "titleSuggest": "Padají hrušky",
+        "subtitleSuggest": "",
+        "filename": "prizraky_045.md",
+        "xhtml": "prizraky_045.xhtml"
+      },
+      {
+        "titleSuggest": "Nietzsche",
+        "subtitleSuggest": "",
+        "filename": "prizraky_046.md",
+        "xhtml": "prizraky_046.xhtml"
+      },
+      {
+        "titleSuggest": "Shakespeare",
+        "subtitleSuggest": "",
+        "filename": "prizraky_047.md",
+        "xhtml": "prizraky_047.xhtml"
+      },
+      {
+        "titleSuggest": "Čára života",
+        "subtitleSuggest": "",
+        "filename": "prizraky_048.md",
+        "xhtml": "prizraky_048.xhtml"
+      },
+      {
+        "titleSuggest": "PŘÍZRAKY",
+        "subtitleSuggest": "",
+        "filename": "prizraky_049.md",
+        "xhtml": "prizraky_049.xhtml"
+      },
+      {
+        "titleSuggest": "Přízraky",
+        "subtitleSuggest": "",
+        "filename": "prizraky_050.md",
+        "xhtml": "prizraky_050.xhtml"
+      },
+      {
+        "titleSuggest": "* * *",
+        "subtitleSuggest": "",
+        "filename": "prizraky_051.md",
+        "xhtml": "prizraky_051.xhtml"
+      },
+      {
+        "titleSuggest": "Muž se směje do dutiny stromu",
+        "subtitleSuggest": "",
+        "filename": "prizraky_052.md",
+        "xhtml": "prizraky_052.xhtml"
+      },
+      {
+        "titleSuggest": "Z okna",
+        "subtitleSuggest": "",
+        "filename": "prizraky_053.md",
+        "xhtml": "prizraky_053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prizraky_054.md",
+        "xhtml": "prizraky_054.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_prizraky.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_citat",
+      "MLP_citat_autor",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_basne",
+      "MLP_verse_-0-12-",
+      "MLP_verse_-I-_-0-0--",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "dezinsky-prizraky"
+    },
+    "generatedAt": 1658413327627
+  }
+}
