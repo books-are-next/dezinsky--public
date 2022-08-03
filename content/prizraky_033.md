@@ -1,11 +1,11 @@
 ---
 title: Kapsa větru
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Obnažoval jsem pařez.  
+Obnažoval jsem pařez.  
 A to houževnaté dřevo utíkalo,  
 zahýbalo různými směry…  
 V té díře se pak objevila  
@@ -15,18 +15,18 @@ moje koncentrovaná krev,
 lesklá a pádící k duši;  
 všechno to, co bylo,  
 z čeho jsem ukut, čím hašen,  
-kým loven v každé roční době;_
+kým loven v každé roční době;
 
 </section>
 
 <section>
 
-_v té díře, s mokrýma rukama,_
+v té díře, s mokrýma rukama,
 
 </section>
 
 <section>
 
-_nesrozumitelný sám sobě._
+nesrozumitelný sám sobě.
 
 </section>

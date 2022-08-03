@@ -1,11 +1,11 @@
 ---
 title: Bouře
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Možná někde za bouře  
+Možná někde za bouře  
 stojí na terase a dívá se do deště,  
 ta bouře plane v ní, oceán rozbouřený  
 v její krvi byl prvně věštěn, když ještě  
@@ -18,6 +18,6 @@ mosazi zábradlí, kde čeká na blesk
 letící jak anděl vzduchem  
 nad hlubokou strží plnou vody,  
 ve které vidí proplouvat  
-malé, stočené ryby._
+malé, stočené ryby.
 
 </section>

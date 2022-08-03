@@ -1,13 +1,13 @@
 ---
 title: Siesta
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _Janičce_
 
-_Chtěl bych usnout,  
+Chtěl bych usnout,  
 má tělesnost se rozpouští  
 jako sraženina pod hýždí.  
 A je to mystický pocit,  
@@ -21,6 +21,6 @@ ponořené v pěně a nádobí,
 vůni kávy s nepřečteným proroctvím.  
 To vše riskuji  
 těch několik matně blýskavých  
-vteřin před usnutím._
+vteřin před usnutím.
 
 </section>

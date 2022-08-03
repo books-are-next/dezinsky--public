@@ -1,6 +1,6 @@
 ---
 title: "Hrabu se v\_hlíně"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -10,53 +10,53 @@ contentType: prose
 
 — M. Z. Polák: Vznešenost přírody
 
-_Den v zahradě za městem,  
-jarní převracení půdy._
+Den v zahradě za městem,  
+jarní převracení půdy.
 
 </section>
 
 <section>
 
-_Strom, co se hrouží v několik spirál  
+Strom, co se hrouží v několik spirál  
 jakoby nahoru.  
-Kámen v louži nasáklý věky,_
+Kámen v louži nasáklý věky,
 
 </section>
 
 <section>
 
-_majestát nelibosti v kůži dýně,  
+majestát nelibosti v kůži dýně,  
 přisprostlý ornament,  
-vyleptaný skvost;_
+vyleptaný skvost;
 
 </section>
 
 <section>
 
-_pes, co okem plotu líně  
-prostrčí čumák,_
+pes, co okem plotu líně  
+prostrčí čumák,
 
 </section>
 
 <section>
 
-_odhrnutá červí nasranost,_
+odhrnutá červí nasranost,
 
 </section>
 
 <section>
 
-_klíží se večer jak řezníkovy troky,  
+klíží se večer jak řezníkovy troky,  
 najednou kluzký chlad —  
-plachý vítr z pustin;_
+plachý vítr z pustin;
 
 </section>
 
 <section>
 
-_hrabu se v hlíně,  
+hrabu se v hlíně,  
 probírám drny  
 jak krtek kosti v hrobě,  
-užívám si dobrodružství._
+užívám si dobrodružství.
 
 </section>

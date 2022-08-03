@@ -1,11 +1,11 @@
 ---
 title: Milostná I
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_I přes úmluvy a vyznání  
+I přes úmluvy a vyznání  
 můžeš ke mně přijít  
 třeba dnes v noci, ne, až po půlnoci,  
 kdy chabá lampa skřehotá  
@@ -17,6 +17,6 @@ jak nábojnice v lomu.
 Vyhřívám tu jedno místo v domě  
 pro uprchlici ze sna,  
 vyvěsil jsem znamení —  
-hle, jak se horkou tužbou třepotá…_
+hle, jak se horkou tužbou třepotá…
 
 </section>

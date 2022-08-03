@@ -1,11 +1,11 @@
 ---
 title: Muž se směje do dutiny stromu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Muž se směje do dutiny stromu.  
+Muž se směje do dutiny stromu.  
 Ten pomalý, ne, zpomalující se,  
 ale jistý krok od úžasu k pochopení  
 končí v sarkasmu, zaškobrtne,  
@@ -15,6 +15,6 @@ s údivem sahá si do vlasů,
 kde se mu zachytila larva  
 zakuklená jak počátek konce,  
 a každá jeho zhmožděnina kůže  
-je neviňátkem vrásky._
+je neviňátkem vrásky.
 
 </section>

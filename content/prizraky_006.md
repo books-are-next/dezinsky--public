@@ -1,6 +1,6 @@
 ---
 title: NOČNÍ HLÍDKA
-contentType: prose
+contentType: poetry
 ---
 
 

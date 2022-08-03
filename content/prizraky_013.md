@@ -1,11 +1,11 @@
 ---
 title: Po noci
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Po noci,  
+Po noci,  
 v níž vítr houral ve žlebech  
 a křivých škvírách spánku,  
 pouštíš se lesem jak mokrá laň  
@@ -17,17 +17,17 @@ a dychtivostí, ty ji chceš
 a žebry špulíš  
 tu tmu uvnitř hlízy srdce,  
 protože nespíš zchváceností  
-ze vzrušení a zvědavosti._
+ze vzrušení a zvědavosti.
 
 </section>
 
 <section>
 
-_Jsi kořist na vábnici,  
+Jsi kořist na vábnici,  
 ztuhlá jako ostatní,  
 vydaná do prázdna  
 dutého jak amfora ukrytá ve zdi,  
 vyslaná do černoty, skrz jejíž hledí  
-zhasínají hvězdy._
+zhasínají hvězdy.
 
 </section>

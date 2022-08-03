@@ -1,13 +1,13 @@
 ---
 title: '* * *'
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
 _Má marnosti! Má pýcho!_
 
-_To, že je lehčí rozplakat  
+To, že je lehčí rozplakat  
 než změnit pohyb ruky,  
 samota okenní tabule  
 v skořápce úplňku,  
@@ -21,6 +21,6 @@ a že je to i naopak
 jak ztuhlý i napjatý sval.  
 Večery, večery a noci,  
 má marnosti!  
-o kterou jsem stál._
+o kterou jsem stál.
 
 </section>

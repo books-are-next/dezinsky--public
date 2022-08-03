@@ -1,11 +1,11 @@
 ---
 title: Porfyriova mapa
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vedle tvého  
+Vedle tvého  
 ve spěchu vysvlečeného prádla  
 je mapa;  
 na ní je svět zřejmější:  
@@ -17,6 +17,6 @@ Já ale nejsem na cestování,
 vyznávám statické umění poezie,  
 tísnivé civění do tmy,  
 zbožňuji doteky,  
-vemlouvání._
+vemlouvání.
 
 </section>

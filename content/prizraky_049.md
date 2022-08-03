@@ -1,6 +1,6 @@
 ---
 title: PŘÍZRAKY
-contentType: prose
+contentType: poetry
 ---
 
 

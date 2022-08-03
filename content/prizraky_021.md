@@ -1,22 +1,22 @@
 ---
 title: Božské stvoření
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Louhuje brambory  
+Louhuje brambory  
 a voda se kalí škrobem,  
 to její zasnění  
-jako by si myla nohy._
+jako by si myla nohy.
 
 </section>
 
 <section>
 
-_My všichni prý  
+My všichni prý  
 budeme souzeni podle skutků  
 jak hmyz skuhrající shnilým krovem,  
-co snaží se o ladný pohyb._
+co snaží se o ladný pohyb.
 
 </section>

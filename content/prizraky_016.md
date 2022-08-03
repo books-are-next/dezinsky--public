@@ -1,11 +1,11 @@
 ---
 title: Příchod domů
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na svahu se ježí obočí  
+Na svahu se ježí obočí  
 jak kočičí hřbet  
 a střecha s prohnutou páteří má  
 vražený klín do břicha trámoví.  
@@ -21,6 +21,6 @@ Vychrchlávání ve tmě
 je měsíční modlitba,  
 jako bys věděl, koho oslovit.  
 Prosím, veď mne,  
-já tu ty končetiny neznám…_
+já tu ty končetiny neznám…
 
 </section>

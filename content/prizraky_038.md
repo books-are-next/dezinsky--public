@@ -1,11 +1,11 @@
 ---
 title: Ovoce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pojídá smutek jak ovoce,  
+Pojídá smutek jak ovoce,  
 zdál se tak silný,  
 závrať vědění.  
 Je přitom tak křehký,  
@@ -15,6 +15,6 @@ Těch padajících červotočů,
 toho svědění;  
 žádný strach z toho, co bude,  
 jen z toho, co je,  
-kde je teď, kdo ho sem pozval…_
+kde je teď, kdo ho sem pozval…
 
 </section>

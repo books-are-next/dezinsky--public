@@ -1,11 +1,11 @@
 ---
 title: Nietzsche
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Prý co je ve filozofii,  
+Prý co je ve filozofii,  
 dřív bylo v poezii,  
 v tom světě, v němž vlhkostí líhně  
 mátoží se přízraky,  
@@ -17,6 +17,6 @@ pro jeden plán bez osnovy.
 A proto je křehká  
 jak podežrané krovy,  
 co se musí odečtenou chvílí  
-ve vaznici zlomit._
+ve vaznici zlomit.
 
 </section>
