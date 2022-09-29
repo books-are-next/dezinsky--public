@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dezinsky-prizraky-036b9b2",
-  "revision": "036b9b2",
+  "identifier": "dezinsky-prizraky-d25ceb6",
+  "revision": "d25ceb6",
   "readingOrder": [
     "promo.html",
     "prizraky_005.html",
@@ -64,8 +64,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Aug 03 2022 09:58:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659520698902
+    "date": "Thu Sep 29 2022 21:20:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486456698
   },
   "documents": [
     {
@@ -1064,7 +1064,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 895,
+      "chars": 896,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -1084,7 +1084,7 @@
   "totals": {
     "all": {
       "words": 2738,
-      "chars": 15791,
+      "chars": 15792,
       "ideas": 667
     },
     "chapters": {
