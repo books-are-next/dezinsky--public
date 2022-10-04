@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dezinsky-prizraky-570559e",
-  "revision": "570559e",
+  "identifier": "dezinsky-prizraky-74866ff",
+  "revision": "74866ff",
   "readingOrder": [
     "promo.html",
     "prizraky_005.html",
@@ -64,8 +64,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:36:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901387188
+    "date": "Tue Oct 04 2022 18:32:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908365501
   },
   "documents": [
     {
