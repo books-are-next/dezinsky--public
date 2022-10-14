@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2790-1
 readingOrder:
   - promo.html
   - prizraky_005.html
